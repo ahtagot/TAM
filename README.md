@@ -20,13 +20,12 @@ Possible to expand to Sanity check every Pull Request ~ 4 each week ."
 
 Values| 	Scripps iOS app | Comments | PR Testing 
 -----|-----|------|------
-
 C M – manual testing cost  |  300  | 16 m-hr every 2 weeks ,   possible to automate 12 m-hr  but at least 2 deivces , next 2 years |1200
-FW – framework implementation cost |40 | | 60
+FW – framework implementation cost |40 | na | 60
 S – test automation scenarios implementation cost | 30 | 30 TC's 1 mhr each   | 30 
 E – maintenance cost | 192 |At least 16 mhr every 3 month for framework, at least 4 mhr each month  | 192  
 R – result analysis cost | 25 |0.5 mhr every 2 weeks |  50
-**Total ROI** | 4.53% | | 261%
+**Total ROI** | 4.53% | na | 261%
 
 
 
@@ -34,3 +33,4 @@ R – result analysis cost | 25 |0.5 mhr every 2 weeks |  50
  
 
 
+	
