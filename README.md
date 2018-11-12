@@ -5,7 +5,7 @@ The best part for starting automation is Regeression because, it requires every 
 Automation would be good for project, especially for expanding on Android platform ( the same app ),  but customer doesn't have additional budgets for TA engineer. Period"
 
 
-**Values| 	Scripps iOS app | Comments ** 
+Values | 	Scripps iOS app | Comments  
 -----|-----|------
 C M – manual testing cost  |  1200  | 16 m-hr every 2 weeks ,   possible to automate 12 m-hr  but at least 2 deivces , next 2 years 
 FW – framework implementation cost |40 |
@@ -18,8 +18,8 @@ R – result analysis cost | 200 |4 mhr every 2 weeks
 "The second option for testing is Sanity check for each build  because, it requires every 3mhr week ( at least 1 build  every  week  ) , covers basic funcionality before  next stages of testing,2 devices. 
 Possible to expand to Sanity check every Pull Request ~ 4 each week ."
 
-**Values| 	Scripps iOS app | Comments | PR Testing ** 
------|-----|------
+Values| 	Scripps iOS app | Comments | PR Testing 
+-----|-----|------|------
 
 C M – manual testing cost  |  300  | 16 m-hr every 2 weeks ,   possible to automate 12 m-hr  but at least 2 deivces , next 2 years |1200
 FW – framework implementation cost |40 | | 60
