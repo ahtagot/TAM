@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-Rebase commit 1
-
-Rebase commit 2
-=======
-Rebase master 1
->>>>>>> master Rebase 1
