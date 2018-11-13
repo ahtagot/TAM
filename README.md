@@ -1,4 +1,4 @@
-## Automation ROI
+## Automation Return Of Investment
 
 "App Description: iOS mobile application , pretty stable ( ~2 yr in prod ) but with fast changing functionality and big amount 3rd party services.
 The best part for starting automation is Regeression because, it requires every 2 week ( every 2 weeks release schedule ) , covers basic funcionality, takes 16mhr and covers at least 2 devices. 
